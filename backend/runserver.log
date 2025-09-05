@@ -1,0 +1,81 @@
+Watching for file changes with StatReloader
+[05/Sep/2025 07:38:21] "HEAD /api/products/ HTTP/1.1" 200 0
+[05/Sep/2025 07:39:06] code 400, message Bad request version ('µA\x01§ì`r\x06')
+[05/Sep/2025 07:39:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:06] code 400, message Bad request version ("\x9ch«aH\x19wª÷ã'Sê+÷Ð\x05»¡\x9dí\x17¤½Ã&\x9b7vIù\x88\x06Üp}\x8cEürmü\x18|A\x91A_\x06=3h\x91¼\x06\x19\x87ø7iÙÇ6R\x02\x90\x93;\x9b\x91¡\x9e$\x91øg\x9e_%8æ\x94³M")
+[05/Sep/2025 07:39:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:06] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥\x9a\x9a\x00\x00\x00')
+[05/Sep/2025 07:39:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:06] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06EZZ\x00\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00')
+[05/Sep/2025 07:39:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('NåÓé®æ¤\x0f÷ÁÒOñ÷kwÅ\x92')
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('¢ÄýF`\x0e\x06_\x08±V>\x10\x83\x9d<\x15\x06ÐP')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('localhost\x00')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x17\x00\x00\x003\x04ï\x04íjj\x00\x01\x00\x11ì\x04ÀL\x81.Â')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ("¤*\x10'1\x9c\x84\x9e@P½äÛ¬\x03ÏÅáâ¢A\x86\x17\x17ò¶¨Q\x8bäK\x05\x03âf^¤\xad¶ãáï\x10»0")
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('\x00\x02\x01\x00\x00+\x00\x07\x06')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00+\x00\x07\x06JJ\x03\x04\x03\x03\x00')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('s\x03$E\x90R¬\x93Ó\x13v\x04\x90\x94Ò\x98gÌ\x16\x96ù:nÉ¯ÄbLsÆZ;Ø6º\x8aH\x9fKK$Ø(\x0f\x15\x83@\x98\x17õ$¿UX¡¥t3?f6Ì¥ªq\x96fÝ')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('êê\x00\x00\x00')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('\x86\x18\x10Ì5\x88¬')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('6±ñ\x15ÒJ\x08Ö')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:07] code 400, message Bad request version ('\x8b\x15G^©ì\x140Ã6G')
+[05/Sep/2025 07:39:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ('ÅìµÕêË.3\x04s\x10¬D9U·S\x8fg`>ù')
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ('\x89_\x12')
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e\x8a\x8a\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00+\x00\x07\x06')
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ('ûìäµC9%úXà|')
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ("D\x16Åb\\5\x05¾û'Y\x94\x94àe\x93ñø®Ä")
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ('{\x07T=ì\x93\x02M£±\x01')
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:08] code 400, message Bad request version ('1Bp¦M\x17§äp\x8e\x99§»\x15D´ÃÅÏ/"j\x00')
+[05/Sep/2025 07:39:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Sep/2025 07:39:44] "HEAD /api/products/ HTTP/1.1" 200 0
+/Users/meervijay/ecommerce-app/backend/shop/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 05, 2025 - 07:38:20
+Django version 5.0.3, using settings 'backend.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/Users/meervijay/ecommerce-app/backend/shop/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 05, 2025 - 07:43:57
+Django version 5.0.3, using settings 'backend.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/Users/meervijay/ecommerce-app/backend/shop/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 05, 2025 - 07:44:10
+Django version 5.0.3, using settings 'backend.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
